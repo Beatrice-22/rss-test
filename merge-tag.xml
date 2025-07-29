@@ -4,14 +4,12 @@
     <title>Test Feed</title>
     <link>https://example.com</link>
     <description>This is a test RSS feed</description>
-
     <item>
       <title>Test Article</title>
-      <link>https://allhiphop.com/news/usher-goes-viral-singing-backstreet-boys-show-with-wife/</link>
+      <link><![CDATA[https://allhiphop.com/news/usher-goes-viral-singing-backstreet-boys-show-with-wife/?useremail={{email}}]]></link>
       <description>Testing query param</description>
-      <guid>https://allhiphop.com/news/usher-goes-viral-singing-backstreet-boys-show-with-wife/</guid>
+      <link><![CDATA[https://allhiphop.com/news/usher-goes-viral-singing-backstreet-boys-show-with-wife/?useremail={{email}}]]></link>
       <pubDate>Tue, 30 Jul 2025 00:00:00 GMT</pubDate>
     </item>
-
   </channel>
 </rss>
